@@ -3,6 +3,8 @@
 Classic Tetris game built with vanilla JavaScript, playable in any modern browser on both desktop and mobile.
 
 
+> **Created by:** OpenCode
+
 ---
 
 ## Changelog
