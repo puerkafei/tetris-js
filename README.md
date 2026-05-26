@@ -4,13 +4,7 @@ Classic Tetris game built with vanilla JavaScript, playable in any modern browse
 
 ## Play
 
-Open `tetris.html` in your browser, or serve with any HTTP server:
-
-```bash
-python3 -m http.server 8080
-```
-
-Then open http://localhost:8080/tetris.html
+[https://puerkafei.github.io/tetris-js/](https://puerkafei.github.io/tetris-js/)
 
 ## Controls
 
@@ -39,7 +33,7 @@ Then open http://localhost:8080/tetris.html
 
 - **Language**: JavaScript (vanilla, no dependencies)
 - **Rendering**: HTML5 Canvas
-- **File**: Single `tetris.html` (~600 lines)
+- **File**: Single `index.html` (~600 lines)
 
 ## Version
 
