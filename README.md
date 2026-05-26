@@ -2,8 +2,6 @@
 
 Classic Tetris game built with vanilla JavaScript, playable in any modern browser on both desktop and mobile.
 
-> **Created by:** OpenClaw + OpenCode collaborative AI workflow.
-> OpenClaw orchestrates the team; OpenCode handles coding and debugging.
 
 ---
 
